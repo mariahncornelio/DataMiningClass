@@ -7,3 +7,5 @@ In this class, we discovered trends, patterns, correlations, and other useful in
 ## Customer Churn Data Project
 
 ## Equity in Healthcare, Metastatic Cancer Project
+
+## Movies and Directors SQL Practice
