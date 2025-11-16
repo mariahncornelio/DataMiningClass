@@ -7,3 +7,6 @@ This project focuses on analyzing and predicting diabetes outcomes using clinica
 
 ## Townhome Dataset Project
 This project involves analyzing a dataset of townhome listings to uncover patterns in pricing, features, and market trends. Through data cleaning, visualization, and statistical analysis, the project provides insights into factors that affect property values. Additionally, predictive modeling techniques are applied to estimate townhome prices, supporting real estate decision-making.
+
+## Movie and Directors SQL Database
+This homework involved working with a Movie and Director database. The task was to answer questions using SQL queries by retrieving and analyzing information from the database, such as listing movies, finding directors, filtering by genre or year, and performing other database operations. The goal was to practice writing SQL queries and working with relational data.
